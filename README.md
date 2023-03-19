@@ -1,4 +1,4 @@
 # guess-the-number
 
-Requirements: python 3.11
+Requirement: python 3.11+
 
